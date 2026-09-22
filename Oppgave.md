@@ -37,10 +37,15 @@ Relasjonelle kontrakter gir større rom for dialog og tilpasning når utfordring
 Samt må det også være systematikk for arbeidet, regulere hva som skal leveres og rettigheter og plikter. Et «Charter» kan ses på som et godt verktøy for å etablere et godt samarbeid mellom prosjektleder og eier og samt lage en bro mellom teamdannelse og en formell kontrakt. Chartrene kan angi:
 
 •	hvordan håndtering av endringer skal løses
+
 •	hvordan man løser uenigheter 
+
 •	samhandlingsprinsipper 
+
 •	hva/hvordan informasjonen skal deles. 
+
 •	Definerte forventinger 
+
 •	Reguleringer for samarbeid og konflikt håndtering
 
  (Dag Ingvar, Engangsorganisasjonen, s.44)
@@ -96,3 +101,30 @@ Videre bør kommunikasjonen være rettet mot gruppens felles mål og interesser.
 Et annet viktig poeng er at prosjektlederen bør legge til rette for metakommunikasjon, altså samtaler om hvordan kommunikasjonen fungerer i gruppen. Dette kan bidra til å avdekke problemer tidlig og forbedre samarbeidet før konflikter oppstår. Dersom det oppstår uenighet, bør prosjektlederen se på dette som en mulighet for læring og utvikling. Ulike meninger kan gi nye perspektiver og bedre løsninger så lenge diskusjonene foregår på en saklig og respektfull måte.
 Boka understreker også viktigheten av å kontrollere aggressivitet og bruk av ironi, siden dette lett kan føre til misforståelser og dårlig stemning. Positiv bruk av humor kan derimot bidra til å skape et bedre arbeidsmiljø. Til slutt bør prosjektlederen vise respekt for andres verdier, meninger og bakgrunn, slik at alle føler seg inkludert og respektert i teamet.
 Gjennom aktiv lytting, likeverd, respekt, god møtedisiplin og fokus på felles mål kan prosjektlederen legge grunnlaget for god og effektiv kommunikasjon i prosjektgruppen.
+
+### Evaluering av gruppekontrakt og samarbeid
+
+Gruppekontakten har fungert fint på mange ulike måter. Vi har hatt god opplevelse når det kommer til oppgaver og ansvars fordeling. Selv om arbeidsmengden har vært større enn antall medlemmer vi er i gruppen, har det ikke vært en hindring til å gjennomføre innleveringene og oppgavene.
+
+Flere i gruppen har hatt muligheten til å uttrykke sine meninger om oppgaver og hvilke oppgaver de ønsket å jobbe med eller synes var interessant. Dette har skapt mer flyt i samarbeidet mellom oss. Vi har ikke tatt kontrakten i bruk direkte, men vi har oppført oss til de ordningene vi har satt i kontrakten. 
+
+## Svakheter og rom for forbedring 
+
+I deler av kontrakten har vi skrevet og snakket om avtalte forventninger til hverandre og beskrivelse av arbeidsform og kommunikasjon. Vi har inkludert forventninger når det gjelder oppmøte og hvordan vi skal kommunisere ved fravær eller om noen av oss ikke har mulighet til å delta på gruppemøter. 
+
+Dette er et område vi tenker må forbedres på. Det vises lite kommunikasjon i gruppechatten når det gjelder fravær eller generelle temaer. Meldinger angående fravær sendes i siste liten, og forklares ikke tydelig. Dette har skapt uro blant noen av oss og har ført til misnøye i samarbeidet. Heldigvis har vi tatt tak i dette tidlig og hatt et møte angående det teamet. Vi har kommunisert våre ønsker når det gjelder samarbeid, regelmessige gruppemøter og aktiv deltakelse i felles kommunikasjonskanalen vår. 
+
+## Erfaring og råd for fremtidige prosjekt arbeid
+
+Når det gjelder fremtidige prosjekter er det viktig å gi en klar oversikt over hva man er i stand til å bidra med i gruppen. Det kan være svært positivt for både oss selv og andre parter vi kommer til å inngå en kontrakt med. Punkter man burde få frem kan blant annet være: 
+
+•	Hvor ofte man ønsker oppmøte!
+
+•	Hvordan en ønsker å jobbe med oppgaver knyttet til ulike emner (felles eller individuelt)
+
+•	Hvor skal kommuniseres ved fravær og hvordan!
+
+•	Hvilke arbeidsmåter en har. Fremmer personen mer læring ved å jobbe alene eller med en gruppe?
+
+•	Hvilke forventninger man har til seg selv og gruppen? «Sikter man på en høyere karakter enn andre på gruppen og hva slags kompromiss en skal inngå»
+
