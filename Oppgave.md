@@ -26,7 +26,7 @@ Den delen av oppstartsmøtet kan virke minst produktiv med tanke på at det ikke
 Dette møtet er ingen garanti for et velfungerende team, men kan definitivt øke sannsynligheten. Ved å balansere mellom arbeid og relasjon samtidig som man skaper plass for pseudo-arbeid bygges det et sterkt grunnlag som prosjektet kan jobbe videre på. 
 
 
-## Rammer for relasjonelle kontrakter
+###  Rammer for relasjonelle kontrakter
 
 For Å få til et godt fungerende team er enormt viktig i tidlige stadier å få en godt fungerende kontrakt som skal sikre et godt samarbeid mellom alle parter. 
 En veldig viktig faktor for å oppnå suksess i samarbeid med andre er tydelig fremstilling av ulike forventninger og krav man har til de ulike partene. Kontrakter er noe som fremforhandles tidlig i et prosjekt, derfor er det essensielt å for Erlend å være bevisst på hvordan kontrakter utformes og hva det burde innebære. 
@@ -42,10 +42,31 @@ Samt må det også være systematikk for arbeidet, regulere hva som skal leveres
 •	hva/hvordan informasjonen skal deles. 
 •	Definerte forventinger 
 •	Reguleringer for samarbeid og konflikt håndtering
+
  (Dag Ingvar, Engangsorganisasjonen, s.44)
 
 I tidlige faser vil den relasjonelle delen oftest ha størst betydning fordi partene fortsatt bygger relasjon og arbeidsformer, men etter hvert som prosjektet utvikles vil den formelle kontrakt ha mer virkning. 
  
+
+### Pro aktive mekanismer for konflikhåndtering 
+Konflikter er svært vanlige i tidlige faser av et prosjekt. Konflikter kan fort oppstå, enten det er en personkonflikt, saks konflikt eller andre typer konflikt. Konflikthåndtering og strategier er derfor et viktig verktøy for å unngå eskalering av konflikter.
+
+Ved konflikter er det svært viktig å ta tidlig tak i konflikter. For Erlend vil dette vise seg til å være enda viktigere. Siden Erlend er i tidlige stadier av prosjektet kan konflikter som drar seg over lengre tider ha en negativ virkning på samarbeidet og prosjektet. Erlend kan inkludere i kontrakten ordninger for å identifisere problemer, Bearbeide konflikten, de eskalering av konflikten og kommunikasjonsmåter. 
+
+## Forslag til ordninger er blant annet 
+
+•	Finne årsak til konflikt og klassifisere hvilken type konflikt det er. 
+
+•	Hvilke parter er involvert i konflikt og ta tidlig tak i konflikten. 
+
+•	Problemløsning: Forsøke å få opp årsaken til konflikten og hva konflikten består av
+
+•	Åpen kommunikasjon og møtepunkter der saker kan drøftes. 
+
+•	Møter der gruppen skal snakke om sosiale forhold de har blant dem
+
+
+
 
 
 
