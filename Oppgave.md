@@ -3,7 +3,7 @@
 
 
 
-
+hei
 
 ### 2 Det første møtet
 
@@ -26,6 +26,26 @@ Den delen av oppstartsmøtet kan virke minst produktiv med tanke på at det ikke
 Dette møtet er ingen garanti for et velfungerende team, men kan definitivt øke sannsynligheten. Ved å balansere mellom arbeid og relasjon samtidig som man skaper plass for pseudo-arbeid bygges det et sterkt grunnlag som prosjektet kan jobbe videre på. 
 
 
+## Rammer for relasjonelle kontrakter
+
+For Å få til et godt fungerende team er enormt viktig i tidlige stadier å få en godt fungerende kontrakt som skal sikre et godt samarbeid mellom alle parter. 
+En veldig viktig faktor for å oppnå suksess i samarbeid med andre er tydelig fremstilling av ulike forventninger og krav man har til de ulike partene. Kontrakter er noe som fremforhandles tidlig i et prosjekt, derfor er det essensielt å for Erlend å være bevisst på hvordan kontrakter utformes og hva det burde innebære. 
+
+Det kan virke negativt for Erlend i den første fasen å innføre en tradisjonell type kontrakt som inngår krav med hva man skal bidra med, kriterier for kvalitet og tidspunkt som prosjektet skal aktiveres. Dette kan være hemmende på samarbeid og tillitsbygging i en så tidlig fase. Det å allerede fra starten stille mål og tidsfrister for de andre partene kan skape misnøye og lite rom for bedre kommunikasjon og samhandling. 
+Relasjonelle kontrakter gir større rom for dialog og tilpasning når utfordringer oppstår. En slik type kontrakt legger vekt på fleksibilitet og samarbeid fremfor regler og detaljer for enhver situasjon.
+
+Samt må det også være systematikk for arbeidet, regulere hva som skal leveres og rettigheter og plikter. Et «Charter» kan ses på som et godt verktøy for å etablere et godt samarbeid mellom prosjektleder og eier og samt lage en bro mellom teamdannelse og en formell kontrakt. Chartrene kan angi:
+
+•	hvordan håndtering av endringer skal løses
+•	hvordan man løser uenigheter 
+•	samhandlingsprinsipper 
+•	hva/hvordan informasjonen skal deles. 
+•	Definerte forventinger 
+•	Reguleringer for samarbeid og konflikt håndtering
+ (Dag Ingvar, Engangsorganisasjonen, s.44)
+
+I tidlige faser vil den relasjonelle delen oftest ha størst betydning fordi partene fortsatt bygger relasjon og arbeidsformer, men etter hvert som prosjektet utvikles vil den formelle kontrakt ha mer virkning. 
+ 
 
 
 
