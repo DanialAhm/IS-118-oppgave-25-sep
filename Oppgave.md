@@ -102,19 +102,19 @@ Et annet viktig poeng er at prosjektlederen bør legge til rette for metakommuni
 Boka understreker også viktigheten av å kontrollere aggressivitet og bruk av ironi, siden dette lett kan føre til misforståelser og dårlig stemning. Positiv bruk av humor kan derimot bidra til å skape et bedre arbeidsmiljø. Til slutt bør prosjektlederen vise respekt for andres verdier, meninger og bakgrunn, slik at alle føler seg inkludert og respektert i teamet.
 Gjennom aktiv lytting, likeverd, respekt, god møtedisiplin og fokus på felles mål kan prosjektlederen legge grunnlaget for god og effektiv kommunikasjon i prosjektgruppen.
 
-### Evaluering av gruppekontrakt og samarbeid
+## Evaluering av gruppekontrakt og samarbeid
 
 Gruppekontakten har fungert fint på mange ulike måter. Vi har hatt god opplevelse når det kommer til oppgaver og ansvars fordeling. Selv om arbeidsmengden har vært større enn antall medlemmer vi er i gruppen, har det ikke vært en hindring til å gjennomføre innleveringene og oppgavene.
 
 Flere i gruppen har hatt muligheten til å uttrykke sine meninger om oppgaver og hvilke oppgaver de ønsket å jobbe med eller synes var interessant. Dette har skapt mer flyt i samarbeidet mellom oss. Vi har ikke tatt kontrakten i bruk direkte, men vi har oppført oss til de ordningene vi har satt i kontrakten. 
 
-## Svakheter og rom for forbedring 
+### Svakheter og rom for forbedring 
 
 I deler av kontrakten har vi skrevet og snakket om avtalte forventninger til hverandre og beskrivelse av arbeidsform og kommunikasjon. Vi har inkludert forventninger når det gjelder oppmøte og hvordan vi skal kommunisere ved fravær eller om noen av oss ikke har mulighet til å delta på gruppemøter. 
 
 Dette er et område vi tenker må forbedres på. Det vises lite kommunikasjon i gruppechatten når det gjelder fravær eller generelle temaer. Meldinger angående fravær sendes i siste liten, og forklares ikke tydelig. Dette har skapt uro blant noen av oss og har ført til misnøye i samarbeidet. Heldigvis har vi tatt tak i dette tidlig og hatt et møte angående det teamet. Vi har kommunisert våre ønsker når det gjelder samarbeid, regelmessige gruppemøter og aktiv deltakelse i felles kommunikasjonskanalen vår. 
 
-## Erfaring og råd for fremtidige prosjekt arbeid
+### Erfaring og råd for fremtidige prosjekt arbeid
 
 Når det gjelder fremtidige prosjekter er det viktig å gi en klar oversikt over hva man er i stand til å bidra med i gruppen. Det kan være svært positivt for både oss selv og andre parter vi kommer til å inngå en kontrakt med. Punkter man burde få frem kan blant annet være: 
 
