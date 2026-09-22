@@ -1,4 +1,4 @@
-## 1. Strategi for rekruttering og sammensetning
+## Strategi for rekruttering og sammensetning
 For å sette sammen en produktiv og proaktiv prosjektgruppe, bør Erling sørge for at gruppa har faglig mangfold, altså at personene i gruppa har ulik utdanning, erfaring og kompetanse. Dette er viktig for at problemet skal kunne bli sett fra forskjellige faglige perspektiver, og kan derfor sammen dyrke frem flere forskjellige forslag til løsninger til problemet. 
 Det faglige mangfoldet er også viktig for prosjektet fordi det er et komplekst prosjekt. Det handler om både kommunale tjenester, politikk, teknologi og innbyggernes behov. Dermed bør gruppa dekke disse fire funksjonene:
 ### Produksjon:
@@ -16,10 +16,7 @@ Samtidig kan masse ulik kompetanse blant personene skape utfordringer. De kan to
 
 
 
-
-hei
-
-### 2 Det første møtet
+### Det første møtet
 
 Det første møtet blir som oftest behandlet som et rent informasjonsmøte der prosjektleder presenterer mål, ressurser og tidsrammer. Det som ofte overses er at det er i denne fasen grunnlaget for felles forståelse for oppgave og ansvarsfordelingen legges i tillegg til førsteinntrykket og relasjonene deltakere bygger og får av hverandre (Jacobsen, 2016, s. 37).  Allerede i det første møtet kan det sette seg en praksis hvor deltakerne former et førsteinntrykk av hverandre som kan være vanskelig å endre i etterkant. Derfor må Erling designe møtet bevisst med tanke på at teamet er lite og svært heterogent, og pensum peker på at jo mindre og mer sammensatt et prosjekt er, desto mer tid burde brukes på teambygging (Jacobsen, 2016, s. 39). Møtet bør derfor balansere mellom to deler, selve oppgaven og samarbeidet rundt den.  
  
@@ -40,7 +37,7 @@ Den delen av oppstartsmøtet kan virke minst produktiv med tanke på at det ikke
 Dette møtet er ingen garanti for et velfungerende team, men kan definitivt øke sannsynligheten. Ved å balansere mellom arbeid og relasjon samtidig som man skaper plass for pseudo-arbeid bygges det et sterkt grunnlag som prosjektet kan jobbe videre på. 
 
 
-###  Rammer for relasjonelle kontrakter
+##  Rammer for relasjonelle kontrakter
 
 For Å få til et godt fungerende team er enormt viktig i tidlige stadier å få en godt fungerende kontrakt som skal sikre et godt samarbeid mellom alle parter. 
 En veldig viktig faktor for å oppnå suksess i samarbeid med andre er tydelig fremstilling av ulike forventninger og krav man har til de ulike partene. Kontrakter er noe som fremforhandles tidlig i et prosjekt, derfor er det essensielt å for Erlend å være bevisst på hvordan kontrakter utformes og hva det burde innebære. 
@@ -67,12 +64,12 @@ Samt må det også være systematikk for arbeidet, regulere hva som skal leveres
 I tidlige faser vil den relasjonelle delen oftest ha størst betydning fordi partene fortsatt bygger relasjon og arbeidsformer, men etter hvert som prosjektet utvikles vil den formelle kontrakt ha mer virkning. 
  
 
-### Pro aktive mekanismer for konflikhåndtering 
+## Pro aktive mekanismer for konflikhåndtering 
 Konflikter er svært vanlige i tidlige faser av et prosjekt. Konflikter kan fort oppstå, enten det er en personkonflikt, saks konflikt eller andre typer konflikt. Konflikthåndtering og strategier er derfor et viktig verktøy for å unngå eskalering av konflikter.
 
 Ved konflikter er det svært viktig å ta tidlig tak i konflikter. For Erlend vil dette vise seg til å være enda viktigere. Siden Erlend er i tidlige stadier av prosjektet kan konflikter som drar seg over lengre tider ha en negativ virkning på samarbeidet og prosjektet. Erlend kan inkludere i kontrakten ordninger for å identifisere problemer, Bearbeide konflikten, de eskalering av konflikten og kommunikasjonsmåter. 
 
-## Forslag til ordninger er blant annet 
+### Forslag til ordninger er blant annet 
 
 •	Finne årsak til konflikt og klassifisere hvilken type konflikt det er. 
 
@@ -85,7 +82,7 @@ Ved konflikter er det svært viktig å ta tidlig tak i konflikter. For Erlend vi
 •	Møter der gruppen skal snakke om sosiale forhold de har blant dem
 
 
-Håndtering av tidspress og planleggingsfellen
+## Håndtering av tidspress og planleggingsfellen
 
 Erling sin utfordring nå er å håndtere tidspresset som følger av at prosjektet skal gjennomføres innen 15 måneder. Det kan høres ut som en god tid, men samtidig vil vi unngå å ikke gå for en altfor detaljert plan med en gang, vi skal balansere planlegging og fleksibilitet, for  denne fasen er avgjørende for å etablere en felles forståelse av prosjektets mål.   
 
@@ -99,8 +96,7 @@ For Erling skal ikke dette prosjektet bety å bare be gruppen om å følge plane
 Målet her må derfor ikke være å lage et perfekt og detaljert plan ved prosjektstart, men heller å etablere en realistisk retning med tydelige mål og tidsskiller som kan justeres og vurderes gjennom prosjektperioden. For at Erling skal redusere risikoen for at tidspress fører til forhastede beslutninger eller at gruppen ved prosjektet blir låst til en plan, så må Erling bruke tilstrekkelig tid i oppstartfasen. 
 
 
-
-6. ## Sikring av god kommunikasjon
+ ## Sikring av god kommunikasjon
 For å sikre god og effektiv kommunikasjon i teamet bør prosjektlederen legge til rette for et åpent, respektfullt og inkluderende kommunikasjonsmiljø. Ut fra det jeg har lest i boka, forstår jeg at god kommunikasjon handler om både å snakke og å lytte. Derfor bør prosjektlederen praktisere aktiv lytting ved å vise interesse for det andre sier, stille oppfølgingsspørsmål og gi positive tilbakemeldinger. Dette gjør at teammedlemmene føler seg hørt og verdsatt.
 
 Jeg forstår også at det er viktig med likeverd i gruppen. Alle bør få mulighet til å delta i samtaler og komme med sine synspunkter. Prosjektlederen bør derfor sørge for en jevn fordeling av taletiden og hindre at enkelte personer dominerer diskusjonene. Når alle får bidra, blir det lettere å dra nytte av gruppens samlede kunnskap og erfaringer.
