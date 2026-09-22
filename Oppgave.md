@@ -1,15 +1,15 @@
-### 1. Strategi for rekruttering og sammensetning
+## 1. Strategi for rekruttering og sammensetning
 For å sette sammen en produktiv og proaktiv prosjektgruppe, bør Erling sørge for at gruppa har faglig mangfold, altså at personene i gruppa har ulik utdanning, erfaring og kompetanse. Dette er viktig for at problemet skal kunne bli sett fra forskjellige faglige perspektiver, og kan derfor sammen dyrke frem flere forskjellige forslag til løsninger til problemet. 
 Det faglige mangfoldet er også viktig for prosjektet fordi det er et komplekst prosjekt. Det handler om både kommunale tjenester, politikk, teknologi og innbyggernes behov. Dermed bør gruppa dekke disse fire funksjonene:
-## Produksjon:
+### Produksjon:
  Disse personene gjennomfører konkrete arbeidsoppgaver. Dette vil ofte si mennesker som er mest interessert i å jobbe med oppgaven, og dermed ikke like interessert i å bygge sosiale relasjoner (Jacobsen, 2016, s. 33). I dette prosjektet er det IT-avdelingen, UX/UI-designeren og sikkerhetseksperten som skal stå for produksjon av den digitale medborgerportalen. 
-## Administrasjon:
+### Administrasjon:
  Personer som administrerer skaper struktur, følger opp tidsfrister, budsjett og arbeidsfordeling. Erling som prosjektleder og representanter fra kommunens administrasjon vil arbeide for å administrere dette prosjektet. 
-## Integrasjon:
+### Integrasjon:
  Personer som bidrar til god kommunikasjon, godt samarbeid og håndtering av forskjellige interesser i gruppen. Den politiske rådgiveren kan bidra til å knytte sammen prosjektgruppen.
-## Entreprenørskap:
+### Entreprenørskap:
  Personer innenfor entreprenørskap ser muligheter og løsninger. De evner å tenke nytt og stille kritiske spørsmål til det man holder på med (Jacobsen, 2016, s. 33). IT-avdelingen og UX/UI-designeren er viktige for å utvikle løsninger for medborgerportalen.
-## Sosiale prosesser
+### Sosiale prosesser
 Det er viktig at Erling ikke bare rekrutterer personer basert på fagkompetanse. Han bør også vurdere hvordan de ulike personene passer sammen som et team. Det sentrale i et prosjekt er arbeidsgruppen. Men et prosjekt er like mye en arbeidsgruppe, en samling med mennesker som skal arbeide sammen for å løse en oppgave, dermed er også sosiale prosesser viktig (Jacobsen, 2016, s. 14).
 Samtidig kan masse ulik kompetanse blant personene skape utfordringer. De kan tolke oppgaver annerledes, ha forskjellige arbeidsmetoder og ulik måter å kommunisere på. Erling bør derfor balansere faglig mangfold med sosial likhet. Det er positivt hvis personene har like holdninger til samarbeid, kommunikasjon og arbeidsmetoder. Dette er særlig viktig i forming-fasen, hvor de første relasjonene skapes og gruppa etableres. For at en gruppe skal utvikles til et team, må medlemmene få en felles forståelse av målet, arbeidsfordelingen og autoritetsfordelingen (Jacobsen, 2016, s. 16). 
 
