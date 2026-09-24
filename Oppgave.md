@@ -135,3 +135,8 @@ Når det gjelder fremtidige prosjekter er det viktig å gi en klar oversikt over
 
 •	Hvilke forventninger man har til seg selv og gruppen? «Sikter man på en høyere karakter enn andre på gruppen og hva slags kompromiss en skal inngå»
 
+## Referanser
+
+Gjøsund, P., & Huseby, R. (2015). *To eller flere: Basiskunnskaper i gruppepsykologi* (4. utg.). Cappelen Damm.
+
+Jacobsen, D. I. (2016). *Engangsorganisasjonen: Organisering og ledelse av prosjekter*. Fagbokforlaget.
